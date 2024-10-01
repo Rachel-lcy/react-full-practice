@@ -4,7 +4,7 @@
 
 
 
-import React, {useState} from 'react';
+import { useState } from 'react';
 
 function MyComponent(){
   const [name, setName] = useState("");
